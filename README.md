@@ -1,19 +1,19 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8b5cf6,1f1f1f&height=200&section=header&text=Jos%C3%A9%20Ricardo%20Alves%20Ferreira&fontSize=40&fontColor=ffffff&desc=Ciberseguran%C3%A7a%20%C2%B7%20Infraestrutura&descSize=18&descAlignY=72" alt="José Ricardo Alves Ferreira — Cibersegurança · Infraestrutura" />
+﻿<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,dc2626&height=200&section=header&text=Jos%C3%A9%20Ricardo%20Alves%20Ferreira&fontSize=40&fontColor=ffffff&desc=Ciberseguran%C3%A7a%20%C2%B7%20Infraestrutura&descSize=18&descAlignY=72" alt="José Ricardo Alves Ferreira — Cibersegurança · Infraestrutura" />
 </p>
 
 <p align="center">
   <a href="https://github.com/jrshego">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Gest%C3%A3o+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Ciberseguran%C3%A7a+%C2%B7+LGPD+%C2%B7+Gest%C3%A3o+de+Vulnerabilidades;Infraestrutura+cr%C3%ADtica+e+continuidade+operacional" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1200&color=dc2626&center=true&vCenter=true&width=700&lines=Gest%C3%A3o+de+Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o;Ciberseguran%C3%A7a+%C2%B7+LGPD+%C2%B7+Gest%C3%A3o+de+Vulnerabilidades;Infraestrutura+cr%C3%ADtica+e+continuidade+operacional" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josericardosegurancati">
-    <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-dc2626?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Goi%C3%A2nia%2C%20GO-8b5cf6?style=flat-square" alt="Goiânia, GO" />
-  <img src="https://img.shields.io/badge/20%2B%20anos%20em%20TI-8b5cf6?style=flat-square" alt="20+ anos em TI" />
+  <img src="https://img.shields.io/badge/Goi%C3%A2nia%2C%20GO-dc2626?style=flat-square" alt="Goiânia, GO" />
+  <img src="https://img.shields.io/badge/20%2B%20anos%20em%20TI-dc2626?style=flat-square" alt="20+ anos em TI" />
 </p>
 
 ---
@@ -40,11 +40,11 @@ Profissional de Tecnologia e Cibersegurança com mais de 20 anos de experiência
   <img src="https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900" />
   <img src="https://img.shields.io/badge/SC--900-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="SC-900" />
   <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet" />
-  <img src="https://img.shields.io/badge/PAM-8b5cf6?style=flat-square" alt="PAM" />
+  <img src="https://img.shields.io/badge/PAM-dc2626?style=flat-square" alt="PAM" />
   <img src="https://img.shields.io/badge/Office365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Office365" />
-  <img src="https://img.shields.io/badge/Gest%C3%A3o%20de%20TI-8b5cf6?style=flat-square" alt="Gestão de TI" />
-  <img src="https://img.shields.io/badge/NIST-8b5cf6?style=flat-square" alt="NIST" />
-  <img src="https://img.shields.io/badge/Pentest-8b5cf6?style=flat-square" alt="Pentest" />
+  <img src="https://img.shields.io/badge/Gest%C3%A3o%20de%20TI-dc2626?style=flat-square" alt="Gestão de TI" />
+  <img src="https://img.shields.io/badge/NIST-dc2626?style=flat-square" alt="NIST" />
+  <img src="https://img.shields.io/badge/Pentest-dc2626?style=flat-square" alt="Pentest" />
 </p>
 
 - **Segurança:** PAM, EDR, Firewall (Aker), Trend Micro, Pen Test, gestão de vulnerabilidades, NIST, LGPD, conscientização em Phishing
@@ -91,7 +91,7 @@ Profissional de Tecnologia e Cibersegurança com mais de 20 anos de experiência
 ### 📫 Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/josericardosegurancati"><img src="https://img.shields.io/badge/LinkedIn-josericardosegurancati-8b5cf6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/josericardosegurancati"><img src="https://img.shields.io/badge/LinkedIn-josericardosegurancati-dc2626?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1f1f1f,8b5cf6&height=100&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,dc2626&height=100&section=footer" alt="" />
