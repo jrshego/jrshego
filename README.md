@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8b5cf6,1f1f1f&height=200&section=header&text=Jos%C3%A9%20Ricardo%20Alves%20Ferreira&fontSize=40&fontColor=ffffff&desc=Ciberseguran%C3%A7a%20%C2%B7%20Infraestrutura%20%C2%B7%20LGPD&descSize=18&descAlignY=72" alt="José Ricardo Alves Ferreira — Cibersegurança · Infraestrutura · LGPD" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8b5cf6,1f1f1f&height=200&section=header&text=Jos%C3%A9%20Ricardo%20Alves%20Ferreira&fontSize=40&fontColor=ffffff&desc=Ciberseguran%C3%A7a%20%C2%B7%20Infraestrutura&descSize=18&descAlignY=72" alt="José Ricardo Alves Ferreira — Cibersegurança · Infraestrutura" />
 </p>
 
 <p align="center">
