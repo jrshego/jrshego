@@ -33,7 +33,18 @@ Profissional de Tecnologia e Cibersegurança com mais de 20 anos de experiência
 ### 🛠 Stack e competências
 
 <p>
-  <img src="https://skillicons.dev/icons?i=windows,linux,azure,docker,git,powershell,python&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,azure,docker,aws&theme=dark" alt="Stack" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AZ--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900" />
+  <img src="https://img.shields.io/badge/SC--900-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="SC-900" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet" />
+  <img src="https://img.shields.io/badge/PAM-8b5cf6?style=flat-square" alt="PAM" />
+  <img src="https://img.shields.io/badge/Office365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" alt="Office365" />
+  <img src="https://img.shields.io/badge/Gest%C3%A3o%20de%20TI-8b5cf6?style=flat-square" alt="Gestão de TI" />
+  <img src="https://img.shields.io/badge/NIST-8b5cf6?style=flat-square" alt="NIST" />
+  <img src="https://img.shields.io/badge/Pentest-8b5cf6?style=flat-square" alt="Pentest" />
 </p>
 
 - **Segurança:** PAM, EDR, Firewall (Aker), Trend Micro, Pen Test, gestão de vulnerabilidades, NIST, LGPD, conscientização em Phishing
