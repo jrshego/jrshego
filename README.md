@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,dc2626&height=200&section=header&text=Jos%C3%A9%20Ricardo%20Alves%20Ferreira&fontSize=40&fontColor=ffffff&desc=Ciberseguran%C3%A7a%20%C2%B7%20Infraestrutura&descSize=18&descAlignY=72" alt="José Ricardo Alves Ferreira — Cibersegurança · Infraestrutura" />
+  <img src="https://raw.githubusercontent.com/jrshego/jrshego/main/banner.svg" alt="José Ricardo Alves Ferreira — Cibersegurança · Infraestrutura" />
 </p>
 
 <p align="center">
@@ -94,4 +94,4 @@ Profissional de Tecnologia e Cibersegurança com mais de 20 anos de experiência
   <a href="https://www.linkedin.com/in/josericardosegurancati"><img src="https://img.shields.io/badge/LinkedIn-josericardosegurancati-dc2626?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,dc2626&height=100&section=footer" alt="" />
+<img src="https://raw.githubusercontent.com/jrshego/jrshego/main/footer.svg" alt="" />
